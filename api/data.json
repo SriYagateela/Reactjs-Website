@@ -1,0 +1,217 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "pname": "Apple Red",
+      "price": 300,
+      "photo": "7.jpg",
+      "details": "Its good for health"
+    },
+    {
+      "id": 2,
+      "pname": "Apple Green",
+      "price": 400,
+      "photo": "8.jpg",
+      "details": "Its good for all"
+    },
+    {
+      "id": 3,
+      "pname": "Mango Yellow",
+      "price": 200,
+      "photo": "9.jpg",
+      "details": "Its good. Try it"
+    },
+    {
+      "pname": "iphone 13",
+      "price": "100000",
+      "photo": "https://www.thesun.ie/wp-content/uploads/sites/3/2021/05/COMP-FH-OFFPLAT-PURPLEIPHONE.jpg?w=2640",
+      "details": "Iphone",
+      "id": 5
+    },
+    {
+      "pname": "Laptop",
+      "price": "30000",
+      "photo": "https://th.bing.com/th/id/OIP.9Mh_lrRLnH50XlMJEZn3YQHaGF?w=214&h=180&c=7&r=0&o=5&pid=1.7",
+      "details": "Laptop",
+      "id": 6
+    }
+  ],
+  "vendor": [],
+  "cart": [
+    {
+      "id": 2,
+      "pname": "Apple Green",
+      "price": 400,
+      "photo": "8.jpg",
+      "details": "Its good for all"
+    },
+    {
+      "id": 3,
+      "pname": "Mango Yellow",
+      "price": 200,
+      "photo": "9.jpg",
+      "details": "Its good. Try it"
+    },
+    {
+      "id": 1,
+      "pname": "Apple Red",
+      "price": 300,
+      "photo": "7.jpg",
+      "details": "Its good for health"
+    },
+    {
+      "pname": "iphone 13",
+      "price": "100000",
+      "photo": "https://www.thesun.ie/wp-content/uploads/sites/3/2021/05/COMP-FH-OFFPLAT-PURPLEIPHONE.jpg?w=2640",
+      "details": "Iphone",
+      "id": 5
+    }
+  ],
+  "order": [
+    {
+      "myproduct": [
+        {
+          "id": 2,
+          "pname": "Apple Green",
+          "price": 400,
+          "photo": "8.jpg",
+          "details": "Its good for all"
+        },
+        {
+          "id": 3,
+          "pname": "Mango Yellow",
+          "price": 200,
+          "photo": "9.jpg",
+          "details": "Its good. Try it"
+        }
+      ],
+      "customername": "Nagaraju Yagateela",
+      "mobileno": "017634353903",
+      "emailid": "yagateela.nagaraju@gmail.com",
+      "address": "Bahnhofstraße 29",
+      "id": 8
+    },
+    {
+      "myproduct": [
+        {
+          "id": 2,
+          "pname": "Apple Green",
+          "price": 400,
+          "photo": "8.jpg",
+          "details": "Its good for all"
+        },
+        {
+          "id": 3,
+          "pname": "Mango Yellow",
+          "price": 200,
+          "photo": "9.jpg",
+          "details": "Its good. Try it"
+        }
+      ],
+      "customername": "Nagaraju Yagateela",
+      "mobileno": "017634353903",
+      "emailid": "yagateela.nagaraju@gmail.com",
+      "address": "Bahnhofstraße 29",
+      "id": 9
+    },
+    {
+      "myproduct": [
+        {
+          "id": 2,
+          "pname": "Apple Green",
+          "price": 400,
+          "photo": "8.jpg",
+          "details": "Its good for all"
+        },
+        {
+          "id": 3,
+          "pname": "Mango Yellow",
+          "price": 200,
+          "photo": "9.jpg",
+          "details": "Its good. Try it"
+        }
+      ],
+      "customername": "",
+      "mobileno": "",
+      "emailid": "",
+      "address": "",
+      "id": 10
+    },
+    {
+      "myproduct": [
+        {
+          "id": 2,
+          "pname": "Apple Green",
+          "price": 400,
+          "photo": "8.jpg",
+          "details": "Its good for all"
+        },
+        {
+          "id": 3,
+          "pname": "Mango Yellow",
+          "price": 200,
+          "photo": "9.jpg",
+          "details": "Its good. Try it"
+        }
+      ],
+      "customername": "Akhila",
+      "mobileno": "999999999",
+      "emailid": "abc@gmail.com",
+      "address": "Delhi new city",
+      "id": 11
+    },
+    {
+      "myproduct": [
+        {
+          "id": 2,
+          "pname": "Apple Green",
+          "price": 400,
+          "photo": "8.jpg",
+          "details": "Its good for all"
+        },
+        {
+          "id": 3,
+          "pname": "Mango Yellow",
+          "price": 200,
+          "photo": "9.jpg",
+          "details": "Its good. Try it"
+        }
+      ],
+      "customername": "Akhila",
+      "mobileno": "999999999",
+      "emailid": "abc@gmail.com",
+      "address": "Delhi new city",
+      "id": 12
+    },
+    {
+      "myproduct": [
+        {
+          "id": 2,
+          "pname": "Apple Green",
+          "price": 400,
+          "photo": "8.jpg",
+          "details": "Its good for all"
+        },
+        {
+          "id": 3,
+          "pname": "Mango Yellow",
+          "price": 200,
+          "photo": "9.jpg",
+          "details": "Its good. Try it"
+        },
+        {
+          "id": 1,
+          "pname": "Apple Red",
+          "price": 300,
+          "photo": "7.jpg",
+          "details": "Its good for health"
+        }
+      ],
+      "customername": "Nagaraju Yagateela",
+      "mobileno": "017634353903",
+      "emailid": "yagateela.nagaraju@gmail.com",
+      "address": "Bahnhofstraße 29",
+      "id": 13
+    }
+  ]
+}
